@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Amogh Kumar
 
 ## 🚀 About Me
 I am a **Computer Engineering** student at **The University of British Columbia** with a strong passion for **front-end development, software engineering, and project management**. I enjoy working on innovative tech projects and aspire to start my own tech company in the future!
