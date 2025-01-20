@@ -12,7 +12,7 @@ I am a **Computer Engineering** student at **The University of British Columbia*
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, JavaScript, C, C++, Java, Dart
-- **Front-end:** React, Flutter, HTML, CSS, Tailwind CSS
+- **Front-end:** React, Flutter, HTML, CSS
 - **Back-end:** Node.js, Express.js
 - **Databases:** Firebase, MongoDB, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Docker, Linux, VS Code, Figma
