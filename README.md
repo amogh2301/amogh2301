@@ -17,10 +17,6 @@ I am a **Computer Engineering** student at **The University of British Columbia*
 - **Databases:** Firebase, MongoDB, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Docker, Linux, VS Code, Figma
 
-## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true)
-
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/amoghkumar23)
 - 📧 Email: amoghk2301@gmail.com
