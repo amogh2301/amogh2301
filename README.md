@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Amogh Kumar
 
 ## 🚀 About Me
-I am a **Computer Engineering** student at **The University of British Columbia** with a strong passion for **front-end development, software engineering, and project management**. I enjoy working on innovative tech projects and aspire to start my own tech company in the future!
+I am a **Computer Engineering** graduate from the **University of British Columbia** with a strong passion for **Software Engineering, Artificial Intelligence, and Business Development**. I enjoy working on innovative tech projects and aspire to start my own tech company in the future!
 
 ## 💡 Interests & Goals
-- 🔹 Front-end development (React, Flutter, HTML, CSS, JavaScript)
+- 🔹 Front-end development 
 - 🔹 Software development & architecture
 - 🔹 Project management & leadership
 - 🔹 Startups & entrepreneurship
@@ -12,7 +12,7 @@ I am a **Computer Engineering** student at **The University of British Columbia*
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, JavaScript, C, C++, Java, Dart
-- **Front-end:** React, Flutter, HTML, CSS
+- **Front-end:** React, React Nativem, Flutter, HTML, CSS
 - **Back-end:** Node.js, Express.js
 - **Databases:** Firebase, MongoDB, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Docker, Linux, VS Code, Figma
